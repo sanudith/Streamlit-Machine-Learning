@@ -6,7 +6,7 @@ import time
 
 # loading the saved model
 #loaded_model = pickle.load(open('d:\\Documents\\MachineLearning\\trained_model.sav', 'rb'))
-loaded_model = pickle.load(open('trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('pages/trained_model.sav', 'rb'))
 
 # creating a function for Prediction
 

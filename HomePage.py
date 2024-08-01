@@ -6,7 +6,7 @@ import seaborn as sns
 
 st.title("Welcome to the Diabetes Predictor.")
 
-#image_path = "D:\\Documents\\MachineLearning02\\App01\\img.jpeg"
+#image_path = "img.jpeg"
 #st.image(image_path)
 st.write("This interactive application is designed to help you explore and understand the diabetes dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. The primary aim of this app is to provide a comprehensive overview of the dataset and visualize key aspects, enabling you to gain insights into the factors associated with diabetes.")
 st.write("Below diagrams visualize the factots of distribution in the dataset.\n\n")
